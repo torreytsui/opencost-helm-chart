@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  opencost:
+  - apiVersion: v2
+    created: "2022-12-21T14:12:02.317900069Z"
+    description: Opencost helm chart
+    digest: 928d25fe67cbf6424ee7ae7eddf84d72aafc122e7c2ec63ff1b239276533f977
+    name: opencost
+    sources:
+    - https://github.com/opencost/opencost
+    urls:
+    - https://github.com/torreytsui/opencost-helm-chart/releases/download/opencost-0.1.0/opencost-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-21T14:12:02.317906869Z"
